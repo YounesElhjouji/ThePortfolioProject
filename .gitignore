@@ -1,2 +1,4 @@
 #Ignoring the node modules folder. Notified by othmane-mahfoud :)
 api/node_modules
+
+api/package-lock.json
