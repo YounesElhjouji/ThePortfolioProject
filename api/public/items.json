@@ -37,7 +37,7 @@
     },
     {
       "id": 3,
-      "title": "REAC Organization",
+      "title": "REACT Organization",
       "desc": "Volunteering experience during which I developed a web application for the organization that I volunteered at as a Web tutor for the marginalized commmunity of my hometown. We were able to create a simple JS web application that shows the façade of REAC.",
       "link": "https://gitlab.com/THamza/reacwebsite",
       "tags": [
