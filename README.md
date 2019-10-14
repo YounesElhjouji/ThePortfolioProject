@@ -5,3 +5,6 @@ also to try my hand at Backend and Frontend development, and learn how to make t
 Right now the project is able to retrieve the content of a json object, sent from the backend (no server) and display that information.
 I tried to make it look like an interesting portfolio idea, instead of having a simple scrolling website, we here have a dynamic web application.
 
+
+What you should expect to see:
+![alt text](https://github.com/Reda-H/ThePortfolioProject/blob/master/readme_resources/website_image.png)
